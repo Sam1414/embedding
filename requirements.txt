@@ -1,0 +1,4 @@
+flask
+absl-py
+tensorflow_hub
+tensorflow
